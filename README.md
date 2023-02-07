@@ -1,8 +1,8 @@
-## Olá 👨‍💻 !
+## Olá !! 👨‍💻 
 
 ## Sou o André Cosolin
 
-#### Atualmente Analista de QA/Testes
+#### 🖥️ Atualmente Analista de QA/Testes
 
 ## Formado em:
 #### 👨‍🎓 Logística;
