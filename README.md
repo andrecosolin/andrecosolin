@@ -19,12 +19,6 @@
 
 </div>
 
-### 🧲 Vamos nos conectar: 
-
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@Andr%C3%A9Cosolin#9631)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrecosolin/)
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/andrecosolin)
-
 ### 🛠️ Tecnologias e Ferramentas: 
 
 <div>
@@ -36,4 +30,10 @@
   <img align="centeer" alt="André-jira" height="60" widht="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg"/>
 
 </div>
+
+### 🧲 Vamos nos conectar: 
+
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@Andr%C3%A9Cosolin#9631)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrecosolin/)
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/andrecosolin)
 
