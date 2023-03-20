@@ -29,6 +29,7 @@
   <img align="centeer" alt="André-css" height="60" widht="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
   <img align="centeer" alt="André-mysql" height="60" widht="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
   <img align="centeer" alt="André-jira" height="60" widht="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg"/>
+  <img align="centeer" alt="André-jira" height="60" widht="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"/>
 
 </div>
 
