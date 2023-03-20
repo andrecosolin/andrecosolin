@@ -11,7 +11,7 @@
 
 #### 👨‍🎓 Cursando Segurança da Informação.
 
-#### Além disso, estou focado em aprender programação python, front-end e também sobre pentest da área de segurança da informação! 
+#### Além disso, sempre estoo em busca de aprender sobre automaçãode testes, programação python e js, um pouco sobre front-end e também sobre pentest da área de segurança da informação! 
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andrecosolin&show_icons=true&theme=tokyonight"/>
