@@ -11,7 +11,7 @@
 
 #### 👨‍🎓 Cursando Segurança da Informação.
 
-#### Além disso, sempre estoo em busca de aprender sobre automaçãode testes, programação python e js, um pouco sobre front-end e também sobre pentest da área de segurança da informação! 
+#### Além disso, sempre estoo em busca de aprender sobre automação de testes, programação python e js, um pouco sobre front-end e também sobre pentest da área de segurança da informação! 
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andrecosolin&show_icons=true&theme=tokyonight"/>
@@ -24,6 +24,7 @@
 <div>
   <img align="centeer" alt="André-python" height="60" widht="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
   <img align="centeer" alt="André-selenium" height="60" widht="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg"/>
+  <img align="centeer" alt="André-playwright" height="60" widht="80" src="https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=Playwright&logoColor=white"/>
   <img align="centeer" alt="André-html" height="60" widht="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
   <img align="centeer" alt="André-css" height="60" widht="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
   <img align="centeer" alt="André-mysql" height="60" widht="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
