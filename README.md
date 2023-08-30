@@ -9,7 +9,7 @@
 
 #### 👨‍🎓 Pós Graduação em Gestão de Projetos;
 
-#### 👨‍🎓 Cursando Segurança da Informação.
+#### 👨‍🎓 Segurança da Informação.
 
 #### Além disso, sempre estoo em busca de aprender sobre automação de testes, programação python e js, um pouco sobre front-end e também sobre pentest da área de segurança da informação! 
 
